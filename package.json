@@ -1,0 +1,22 @@
+{
+  "name": "netlify-html-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toreylittlefield/netlify-html-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toreylittlefield/netlify-html-css/issues"
+  },
+  "homepage": "https://github.com/toreylittlefield/netlify-html-css#readme",
+  "devDependencies": {
+    "netlify-cli": "^8.16.1"
+  }
+}
