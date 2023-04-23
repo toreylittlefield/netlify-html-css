@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/toreylittlefield/netlify-html-css#readme",
   "devDependencies": {
-    "netlify-cli": "^8.16.1"
+    "netlify-cli": "^14.2.1"
   }
 }
